@@ -183,7 +183,7 @@ padding: 100px;
 background-color: #ff4c68;
 text-align: center;
 color: #fff;
-padding: 7% 10% 10%;
+padding: 7% 15%;
 }
 
 .btn-cta {
@@ -191,8 +191,9 @@ padding: 7% 10% 10%;
 }
 
 .h3-cta {
-  font-size: 3rem;
-  padding: 0 12%;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
 }
 
 #footer {
@@ -202,7 +203,7 @@ padding: 7% 10% 10%;
 }
 
 .icons-footer{
-  margin-left: 1%;
+  margin-left: 1.5%;
   margin-bottom: 2%;
 }
 
